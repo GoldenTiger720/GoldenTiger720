@@ -17,7 +17,7 @@
   
   <div id="language and tools" align="center">
     <a href="https://github.com/GoldenTiger720">
-      <img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&random=false&width=620&lines=Language+  and  + Tools + Which + I + used + to + Developing" alt="Typing SVG" />
+      <h2>AI and Blockchain Expert</h2>
     </a>
     <br>
    <table style="text-align: center;">  
